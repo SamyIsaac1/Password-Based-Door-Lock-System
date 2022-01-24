@@ -1,4 +1,4 @@
-we have here two micros which are talkin' with to other through SPI
+we have here two micros which are talkin' with each other through SPI
 -The Master sends the data he gets from Keypad and display it on LCD
 -The Slave makes all mathematics and compares the data he's received from the Master with The Data in EEPROM
 Than sends a signal to generate INR in Master Micro to tell him if the Password is true or wrong 
